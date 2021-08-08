@@ -2,7 +2,9 @@
 
 [![License](https://www.gnu.org/graphics/gplv3-88x31.png)](https://gitlab.com/lvxejay/materialx-blender/LICENSE.md)
 
-***A prototype of  MaterialX xml-schema and file-format support for Blender 3D . This repository is no longer under active development.***
+
+***Do not use for production.***
+***A development MaterialX xml-schema and file-format support for Blender 3D.***
 
 ## Repository
 
